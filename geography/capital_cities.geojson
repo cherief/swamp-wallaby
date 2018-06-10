@@ -1,0 +1,303 @@
+{ 
+	"type":"FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "Sukhumi",
+			    "country": "Abkhazia",
+			    "flag": "false"
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "Kabul",
+			    "country": "Afghanistan",
+			    "flag": "true"
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "Episkopi Cantonment",
+			    "country": "Akrotiri and Dhekelia",
+			    "flag": "false"
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "Tirana",
+			    "country": "Albania",
+			    "flag": "true"
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "Algiers",
+			    "country": "Algeria",
+			    "flag": "true"
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "Pago Pago",
+			    "country": "American Samoa",
+			    "flag": "true"
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "Andorra la Vella",
+			    "country": "Andorra",
+			    "flag": "true"
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "Luanda",
+			    "country": "Angola",
+			    "flag": "true"
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "The Valley",
+			    "country": "Anguilla",
+			    "flag": "false"
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "St John's",
+			    "country": "Antigua and Barbuda",
+			    "flag": "true"
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "Buenos Aires",
+			    "country": "Argentina",
+			    "flag": "true"
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		},{
+		"type": "Feature",
+		"geometry": {
+			    "type": "Point",
+			    "coordinates": [0, 0]
+			},
+		"properties": {
+			    "city": "",
+			    "country": "",
+			    "flag": ""
+			}
+		}
+
+	]
+}
